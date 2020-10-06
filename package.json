@@ -1,6 +1,6 @@
 {
-  "name": "ps-redux",
-  "description": "React and Redux Pluralsight course by Cory House",
+  "name": "react-app",
+  "description": "React app template by IamHaque",
   "scripts": {
     "start": "run-p start:dev",
     "start:dev": "webpack-dev-server --config webpack.config.dev.js --port 3000",
